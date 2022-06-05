@@ -14,7 +14,7 @@
     }``
     
     for (let i = 1; i < numRows; i++) {
-        // generate new array since with [1,1]
+        // generate new array with [1,1] since every array will have 1 at the beginning and end of the array
         let tempArray = new Array(2).fill(1);
         // insert getPreArray return value middle of [1,1]
         tempArray.splice(1, 0, ...getPrevArray(prevArray));
