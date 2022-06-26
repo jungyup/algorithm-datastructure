@@ -25,6 +25,11 @@ Question desciption will be on solution if the question link is not available.
 |[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-all-duplicates-in-an-array.js) | Medium | `Array` `Hash Table` |
 |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/most-profit-assigning-work.js) | Medium | `Array` `Two Pointers` `Greedy` |
 
+### :pushpin: Hash Table
+
+| Questions    | Solutions | Difficulty  | Tags   |
+| :---        |    :----:   |        :---: |     ----: |
+|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Hash/uncommon-words-from-two-sentences.js) | Easy | `Hash Table` `String` |
 
 ### :pushpin: Depth-First Search | Breadth-First Search
 
