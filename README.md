@@ -33,6 +33,7 @@ Question desciption will be on solution if the question link is not available.
 | Questions    | Solutions | Difficulty  | Tags   |
 | :---        |    :----:   |        :---: |     ----: |
 |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Hash/uncommon-words-from-two-sentences.js) | Easy | `Hash Table` `String` |
+|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Hash/unique-number-of-occurrences.js) | Easy | `Array` `Hash Table` |
 
 ### :pushpin: Depth-First Search | Breadth-First Search
 
