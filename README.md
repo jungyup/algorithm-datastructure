@@ -21,6 +21,7 @@ Question desciption will be on solution if the question link is not available.
 |[Sort Array by Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/sort-array-by-parity-ii.js) | Easy | `Array` `Two Pointers` `Sorting` |
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/squares-of-a-sorted-array.js) | Easy | `Array` `Two Pointers` `Sorting` |
 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-numbers-with-even-number-of-digits.js) | Easy | `Array` |
+|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/running-sum-of-1d-array.js) | Easy | `Array` `Prefix Sum` |
 |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/most-profit-assigning-work.js) | Medium | `Array` `Two Pointers` `Greedy` |
 
 ### :pushpin: Hash Table
