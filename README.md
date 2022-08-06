@@ -23,6 +23,7 @@ Question desciption will be on solution if the question link is not available.
 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-numbers-with-even-number-of-digits.js) | Easy | `Array` |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/running-sum-of-1d-array.js) | Easy | `Array` `Prefix Sum` |
 |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/most-profit-assigning-work.js) | Medium | `Array` `Two Pointers` `Greedy` |
+|[Remove Duplicate from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/remove-duplicates-from-sorted-array-ii.js) | Medium | `Array` `Two Pointers` |
 
 ### :pushpin: Hash Table
 
