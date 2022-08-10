@@ -8,7 +8,7 @@
     
     let numsLength = nums.length;
     
-    // initialize pointer and count to check if number showed twice
+    // initialize pointer and count to check if number is showen twice
     let pointer = nums[0];
     let count = 1;
     
@@ -18,7 +18,7 @@
             count++;
             
             // if count is greater than 2, then it means it was already shown twice
-            // so splice that from originam array
+            // so splice that from original array
             // then decrease index and nums array length by 1
             // so that for loop iterates in right order
             if (count > 2) {
