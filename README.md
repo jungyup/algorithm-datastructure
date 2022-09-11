@@ -1,6 +1,7 @@
 # Algorithm / Data Structure
 This repository contains solutions to coding problems based on Data Structures and Algorithms.\
-Question desciption will be on solution if the question link is not available.
+Question desciption will be on solution if the question link is not available.\
+Some Questions are CodeSignal, which you may need register to able to see the url. However, questions will be included in solution for those questions.
 
 ### :pushpin: Array
 
@@ -24,6 +25,7 @@ Question desciption will be on solution if the question link is not available.
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/running-sum-of-1d-array.js) | Easy | `Array` `Prefix Sum` |
 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/max-consecutive-ones.js) | Easy | `Array` |
 |[Sort by Height](https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/sort-by-height.js) | Easy | `Array` |
+[Chess Board Cell Color](https://app.codesignal.com/arcade/intro/level-6/t97bpjfrMDZH8GJhi) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/chess-board-cell-color.js) | Easy | `Array` `Matrix` |
 |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/most-profit-assigning-work.js) | Medium | `Array` `Two Pointers` `Greedy` |
 |[Remove Duplicate from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/remove-duplicates-from-sorted-array-ii.js) | Medium | `Array` `Two Pointers` |
 
