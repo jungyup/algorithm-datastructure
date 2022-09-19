@@ -1,7 +1,8 @@
 # Algorithm / Data Structure
 This repository contains solutions to coding problems based on Data Structures and Algorithms.\
 Question desciption will be on solution if the question link is not available.\
-Some Questions are CodeSignal, which you may need register to able to see the url. However, questions will be included in solution for those questions.
+Some questions are from CodeSignal, which you may need register to able to see the url.\
+However, questions will be included in solution for those CodeSignal questions.
 
 ### :pushpin: Array
 
