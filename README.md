@@ -32,6 +32,7 @@ However, questions will be included in solution for those CodeSignal questions.
 |[Confusing Number](https://leetcode.com/problems/confusing-number/description/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/confusing-number.js) | Easy | `Array` `Math` |
 |[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/most-profit-assigning-work.js) | Medium | `Array` `Two Pointers` `Greedy` |
 |[Remove Duplicate from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/remove-duplicates-from-sorted-array-ii.js) | Medium | `Array` `Two Pointers` |
+|[Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/description/) | [Javascript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/minimum-health-to-beat-game.js) | Medium | `Array` `Greedy` `Prefix Sum` |
 
 ### :pushpin: Hash Table
 
