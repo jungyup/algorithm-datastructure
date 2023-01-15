@@ -46,6 +46,7 @@ However, questions will be included in solution for those CodeSignal questions.
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-all-numbers-disappeared-in-an-array.js) | Easy | `Array` `Hash Table` |
 |[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-common-characters.js) | Easy | `Array` `Hash Table` `String` |
 |[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Array/find-all-duplicates-in-an-array.js) | Medium | `Array` `Hash Table` |
+|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](https://github.com/jungyup/algorithm-datastructure/blob/main/solutions/javascript/Hash/integer-to-roman.js) | Medium | `Hash Table` `Math` `String` |
 
 ### :pushpin: Depth-First Search | Breadth-First Search
 
